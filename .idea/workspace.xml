@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -141,6 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594648641116</updated>
       <workItem from="1594648651083" duration="1446000" />
+      <workItem from="1594739201465" duration="816000" />
     </task>
     <servers />
   </component>
@@ -152,9 +153,9 @@
       <screen x="1440" y="-121" width="1920" height="1080" />
     </state>
     <state x="1823" y="104" key="new project wizard/0.0.1440.900/1440.-121.1920.1080@1440.-121.1920.1080" timestamp="1594739116960" />
-    <state x="2065" y="120" width="670" height="676" key="search.everywhere.popup" timestamp="1594733187557">
+    <state x="2065" y="120" width="670" height="676" key="search.everywhere.popup" timestamp="1594821872082">
       <screen x="1440" y="-121" width="1920" height="1080" />
     </state>
-    <state x="2065" y="120" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-121.1920.1080@1440.-121.1920.1080" timestamp="1594733187557" />
+    <state x="2065" y="120" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-121.1920.1080@1440.-121.1920.1080" timestamp="1594821872082" />
   </component>
 </project>
